@@ -6,7 +6,7 @@ A simple alert/tweak for iOS on springboard\
 
 # Building
 ## Requisitos
-- [Theos](https://theos.dev/docs/installation).
+- [Theos](https://theos.dev/docs/installation)
 
 
 ## Setup

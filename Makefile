@@ -1,5 +1,4 @@
 TARGET = iphone:clang:latest:12.4
-
 ARCHS= arm64
 
 DEBUG = 0
